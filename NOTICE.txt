@@ -1,0 +1,6 @@
+NOTICE.txt
+
+This NOTICE.txt file is a part of the AMWA AS-11_X2 project.
+
+Readers are advised that any IPR contribution forms associated with this project will
+be found in the /ipr_declarations folder for this project.
