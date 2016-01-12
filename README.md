@@ -1,4 +1,4 @@
-# **DRAFT** AS-11 X2 (MXF Program Contribution - HD Intra)
+# **[Work In Progress]** AS-11 X2 (MXF Program Contribution - HD Intra)
 
 This repository contains the full details of this AMWA Specification.
 
