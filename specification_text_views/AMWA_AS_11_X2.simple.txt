@@ -166,7 +166,7 @@ There are two special types of Block which allow the value of one Block to be se
             [B] ST 381-3 mapping
                 Conformance: mandatory
                 [A] The <Picture Essence> is mapped to the file as specified in <SMPTE ST 381-3:2013>.
-                [A] In the <Picture Essence Descriptor> the value of Byte 15 of the "Essence Container" property is 60h.
+                [A] The value of Byte 15 of the "Essence Container" label is 60h.
                 [A] The <Picture Essence Descriptor> used is the {CDCIDescriptor}.
                 [N] Use of the AVC Sub Descriptor
                     [A] <SMPTE ST 381-3:2013> defines the AVC Sub Descriptor and states that it "should" be used. This Block places no additional constraints on the use of the AVC Sub Descriptor. Therefore, as far as this Block is concerned its use is regarded as optional but recommended. However, note that <SMPTE ST 381-3:2013> does mandate how the values of the AVC Sub Descriptor are populated -- for certain AVC streams it would not be possible to fulfil these requirements and so in such cases there is no choice but to omit the AVC Sub Descriptor.
@@ -412,6 +412,7 @@ There are two special types of Block which allow the value of one Block to be se
         Associated Parameter Key: "Picture Essence Constraints" (http://vm-1274-user.virt.ch.bbc.co.uk/as/block/param2/)
         [B] RP 2027 Class 100 Picture Essence at 1080i25 with 10 bit samples
             Conformance: mandatory
+            [A] The decoded <Picture Essence> conforms to <ITU-R Recommendation ITU-R BT.709> where: "Transport" is "Interlace"; "Field frequency (Hz)" is "50"; "Coding format" is "10 bits/component"
             [A] The <Picture Essence> conforms to <SMPTE RP 2027:2012> where: "Class" is "100"; "Television system" is "1080 line system"; "Frame Frequency" is "50i"; "The sequence parameter set and the picture parameter set shall be placed after the access unit delimiter at the beginning of every coded frame".
             [A] <bit_depth_luma_minus8> is "2".
             [A] <bit_depth_chroma_minus8> is "2".
