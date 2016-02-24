@@ -502,9 +502,9 @@ There are two special types of Block which allow the value of one Block to be se
                         Advanced Video Coding. A DCT-based video compression format.
                         <URL: http://vm-1274-user.virt.ch.bbc.co.uk/as/reference/ITU/T-Rec-H.264/term/AVC/>
                     [T] Byte Stream Format
-                        The format defined by Annex B of <ITU-T Rec H.264>.
+                        The format defined by Annex B of <ITU-T Rec H.264-201402>.
                         <URL: http://vm-1274-user.virt.ch.bbc.co.uk/as/reference/ITU/T-Rec-H.264/term/Byte%20Stream%20Format/>
-                        [R] ITU-T Rec H.264
+                        [R] ITU-T Rec H.264-201402
                             <URL: http://vm-1274-user.virt.ch.bbc.co.uk/as/reference/ITU/T-Rec-H.264/document/201402/>
             [B] ST 381-3 mapping
                 Conformance: mandatory
