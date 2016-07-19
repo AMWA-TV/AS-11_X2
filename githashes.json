@@ -10,7 +10,7 @@
         }, 
         {
             "repo_url": "git@gitlab.com:mglanville/amwa-specs.git", 
-            "commit": "730ccb214b37adde00c61a779c6678ec2d974c4c"
+            "commit": "99e65f3fdd27cd877555170d33ac6771a6866f89"
         }
     ]
 }

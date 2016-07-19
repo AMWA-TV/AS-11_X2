@@ -1,4 +1,6 @@
-# **[Work In Progress]** AS-11 X2 (MXF Program Contribution - HD Intra)
+# **[Work In Progress*]** AS-11 X2 (MXF Program Contribution - HD Intra)
+
+\* This Specification is approved for elevation to Proposed Specification. However, before the elevation process can be concluded changes need to be made to some aspects of the Specification (related to IDs / URLs of Rules Framework Components which then determine XML Schema namespaces etc). These changes will be made by the end of July 2016.
 
 This repository contains the full details of this AMWA Specification. For the latest version of this repository please refer to [its GitHub project](https://github.com/AMWA-TV/AS-11_X2/).
 
