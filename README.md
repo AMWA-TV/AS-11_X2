@@ -1,4 +1,4 @@
-# **[Proposed Specification]** AS-11 X2 (MXF Program Contribution - HD Intra)
+# **[Specification]** AS-11 X2 (MXF Program Contribution - HD Intra)
 
 This repository contains the full details of this AMWA Specification. For the latest version of this repository please refer to [its GitHub project](https://github.com/AMWA-TV/AS-11_X2/).
 
