@@ -2,7 +2,7 @@
 
 ### **View the latest version of this Specification online [here](https://amwa-tv.github.io/AS-11_X2/AMWA_AS_11_X2.html)**.
 
-This repository contains the full details of this [AMWA Specification](https://www.amwa.tv/as-11-x2/). For the latest version of this repository please refer to [its GitHub project](https://github.com/AMWA-TV/AS-11_X2/).
+This repository contains the full details of this [AMWA Specification](https://www.amwa.tv/specifications/). For the latest version of this repository please refer to [its GitHub project](https://github.com/AMWA-TV/AS-11_X2/).
 
 ## Specification Development and Implementation
 
