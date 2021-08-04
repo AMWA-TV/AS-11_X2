@@ -1,4 +1,4 @@
-# **[Specification]** AS-11 X2 (MXF Program Contribution - HD Intra)
+# **[Specification (Published)]** AS-11 X2 (MXF Program Contribution - HD Intra)
 
 |*Important links*| |
 |-----------------|-|
